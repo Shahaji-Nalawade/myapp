@@ -1,0 +1,41 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Output of the 'go' command
+bin/
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Go modules
+go.mod
+go.sum
+
+# Dependency directories (vendor/)
+vendor/
+
+# VS Code files
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Test binary and coverage output
+*.test
+*.out
+coverage/
+
+# Configurations
+*.env
+
+# Ignore any editor-specific backups
+*~
