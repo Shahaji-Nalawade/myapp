@@ -29,3 +29,7 @@ You can use tools like `curl` or Postman to test the API:
 You can run your tests using the Go test command:
 
 ``` go test ./internal/handlers -v```
+
+## Check Coverage for test cases
+
+``` go test ./... -cover ```
